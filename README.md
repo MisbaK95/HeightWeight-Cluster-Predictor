@@ -89,7 +89,7 @@ The dataset `HW.csv` includes the following columns:
 ## 🖼️ Interface Preview
 
 Here’s a preview of the Streamlit UI:
+<img width="718" alt="image" src="https://github.com/user-attachments/assets/248e2ffe-aecf-462a-a0eb-b2e14a74a554" />
 
-![1](https://github.com/user-attachments/assets/6e2e0f07-f83d-4e48-8d30-e828d1d55bbb)
+<img width="665" alt="image" src="https://github.com/user-attachments/assets/3104ec4e-0927-4ccf-b092-34436b6d3538" />
 
-<img width="665" alt="image" src="https://github.com/user-attachments/assets/49297487-fbb8-4576-b9e0-0a504575cb1c" />
