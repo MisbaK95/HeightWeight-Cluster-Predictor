@@ -86,3 +86,4 @@ The dataset `HW.csv` includes the following columns:
 | Weight | Weight of person (pounds) |
 
 ---
+<img width="665" alt="image" src="https://github.com/user-attachments/assets/49297487-fbb8-4576-b9e0-0a504575cb1c" />
