@@ -14,7 +14,7 @@ The model clusters individuals into groups using unsupervised learning, helping 
 
 * `hwprediction.ipynb` – Notebook with complete code for preprocessing, clustering using KMeans, Streamlit interface, and data visualization.
 * `HW.csv` – Dataset file containing height and weight information used for training.
-* `Untitled video - Made with Clipchamp (2).mp4` – Demo video showing the working Streamlit user interface.
+
 
 ---
 
